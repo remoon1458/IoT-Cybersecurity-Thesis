@@ -47,5 +47,3 @@ I’m actively looking for roles in:
 
 ---
 
-## 🧑‍💻 Repository Structure:
-
