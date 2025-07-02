@@ -28,7 +28,7 @@ This repository contains research highlights and insights from my academic thesi
 
 ---
 
-## 📌 Why This Matters (For Recruiters and Industry Professionals):
+## 📌 Why This Matters
 
 This research demonstrates my ability to:
 
